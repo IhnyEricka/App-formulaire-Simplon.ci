@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\Ihny\aws-proj\app-simplon-form\resources\views/layouts/footer.blade.php ENDPATH**/ ?>

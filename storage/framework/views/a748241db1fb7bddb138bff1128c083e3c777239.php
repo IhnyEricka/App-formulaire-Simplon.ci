@@ -1,0 +1,1 @@
+<?php echo $__env->make('layouts.header', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\Users\Ihny\aws-proj\app-simplon-form\resources\views/layouts/mainhead.blade.php ENDPATH**/ ?>
